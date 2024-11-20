@@ -29,16 +29,6 @@ onohiroki@onohirokinoAir git_challenge % git commit -m "secend"
 [main d94bc40] secend
  1 file changed, 2 insertions(+)
  create mode 100644 git_challenge/hello_world.txt
-onohiroki@onohirokinoAir git_challenge % git log
-commit d94bc40661b5d7622cb922c3cbe8d35df30817b0 (HEAD -> main)
-Author: hiroki1-hub <hiroki1210goo@gmail.com>
-Date:   Wed Nov 20 11:35:21 2024 +0900
-
-    secend
-
-commit 8aa1d5b7c42423cd40f2c4d995cb4fc696d100b6
-Author: hiroki1-hub <hiroki1210goo@gmail.com>
-Date:   Wed Nov 20 11:30:39 2024 +0900
-
-    first commit
-
+onohiroki@onohirokinoAir github-basic-kadai % git log --onelinei
+8aa1d5b first commit
+060ca02 secend
